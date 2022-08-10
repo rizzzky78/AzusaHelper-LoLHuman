@@ -1,0 +1,58 @@
+{
+    "6281329585825": {
+        "user_limit": 100,
+        "user_exp": 1700,
+        "user_level": 2,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 10:47:01"
+    },
+    "6285156987736": {
+        "user_limit": 100,
+        "user_exp": 200,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 10:48:39"
+    },
+    "62895604594043": {
+        "user_limit": 300,
+        "user_exp": 100,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 11:22:04"
+    },
+    "6285847968766": {
+        "user_limit": 300,
+        "user_exp": 100,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 11:23:00"
+    },
+    "6281364470105": {
+        "user_limit": 300,
+        "user_exp": 100,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 11:59:23"
+    },
+    "628988469196": {
+        "user_limit": 300,
+        "user_exp": 100,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 13:17:23"
+    },
+    "62816559906": {
+        "user_limit": 300,
+        "user_exp": 100,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-08-05 16:01:18"
+    }
+}
